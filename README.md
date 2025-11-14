@@ -9,7 +9,7 @@
 ## About Me:
 - 🔭 I’m always building.
 - 🌱 I’m currently exploring **AI Agents**.
-- 👾 Know more about me [here.](https://drive.google.com/file/d/1SMBcz4fTcQZgL5kULlhErXAxXzCXGAAu/view?usp=sharing)
+- 👾 Know more about me [here.](https://drive.google.com/file/d/1QgQvugmHqmuJ1BeLug2EnyIPD5N8PsI0/view?usp=drive_link)
 <!--- 👯 I’m looking to collaborate on a **Full stack and Blockchain projects**.-->
 <!--- 💬 Ask me about **Blockchain, Smart Contracts, DSA, and development**.-->
 
@@ -49,16 +49,13 @@
 <hr>
 
 ## Connect with me
-<a href="https://twitter.com/kunalg_twt">
-   <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge"> </a>
-<a href="https://www.linkedin.com/in/ikunal04/">
+
+<a href="https://www.linkedin.com/in/divanshusaini/">
    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-f2f478?logo=LinkedIn&logoColor=2a6f96&style=for-the-badge">
 </a>
 
 
-## Hacktoberfest
 
-[![@ikunal_04's Holopin board](https://holopin.me/ikunal_04)](https://holopin.io/@ikunal_04)
 
 
 <!--
