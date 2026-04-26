@@ -52,6 +52,7 @@
 
 <a href="https://www.linkedin.com/in/divanshusaini/">
    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-f2f478?logo=LinkedIn&logoColor=2a6f96&style=for-the-badge">
+   <a href="https://x.com/DivanshuSaini_2">
     <img alt="Twiter" src="https://img.shields.io/badge/-Twitter-f2f478?logo=Twitter&logoColor=2a6f96&style=for-the-badge">
 </a>
 
